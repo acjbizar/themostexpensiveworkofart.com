@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190713",
+    "name": "The Most Expensive Work of Art",
+    "default_locale": "en",
+    "description": "Conceptual website + domain name, 2013.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "gold",
+    "homepage_url": "https://themostexpensiveworkofart.com/",
+    "start_url": "https://themostexpensiveworkofart.com/",
+    "icons": [
+        {
+            "src": "https://themostexpensiveworkofart.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}

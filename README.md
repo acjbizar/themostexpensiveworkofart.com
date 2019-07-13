@@ -1,2 +1,1 @@
-# themostexpensiveworkofart.com
-The Most Expensive Work of Art.
+# The Most Expensive Work of Art
