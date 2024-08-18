@@ -1,0 +1,19 @@
+{
+  "$schema": "https:\/\/json.schemastore.org\/web-manifest-combined.json",
+  "lang": "en",
+  "dir": "ltr",
+  "name": "The Most Expensive Work of Art",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://themostexpensiveworkofart.com/apple-touch-icon-precomposed.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "id": "https://themostexpensiveworkofart.com/",
+  "theme_color": "white",
+  "background_color": "black"
+}
